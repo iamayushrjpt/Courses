@@ -14,7 +14,7 @@ else if(hindi>30  && hindi<70){
 printf("B\n");}
 else if(70<hindi && hindi<90){
 printf("A\n");}
-else if(90<=number && hindi<=100){
+else if(90<=hindi&& hindi<=100){
 printf("A+\n");}
 else{
 printf("wrong ❌ number\n\t");}
